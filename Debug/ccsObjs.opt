@@ -1,0 +1,1 @@
+"./main.obj" "./network_if.obj" "./startup_ccs.obj" "./uart_if.obj" "./udma_if.obj" "./wdt_if.obj" "./source/system/hibernate.obj" "./source/system/system.obj" "./source/pin_mux_config.obj" "./source/hardware/watchdog/watchdog.obj" "./source/hardware/uart/uartA0.obj" "../cc3200v1p32.cmd" -l"libc.a" -l"driverlib.a" -l"simplelink.a" -l"free_rtos.a" -l"libEmail.a" 
